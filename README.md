@@ -295,10 +295,10 @@ This repository contains materials for three comprehensive laboratory sessions:
 cd ~/Documents
 
 # Clone the repository
-git clone https://github.com/DimuthuHemachandra/BIOS_278.git
+git clone https://github.com/DimuthuHemachandra/BIOS_278_F26.git
 
 # Enter the directory
-cd BIOS_278
+cd BIOS_278_F26
 
 # Explore the contents
 ls -la
